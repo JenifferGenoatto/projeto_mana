@@ -336,4 +336,8 @@ $RECYCLE.BIN/
 #pasta node_modules
 node_modules/
 
+#Temporary
+.env
+.temp
+
 # End of https://www.gitignore.io/api/node,java,windows,java-web,reactnative
